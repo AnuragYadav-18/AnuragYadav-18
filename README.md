@@ -26,6 +26,6 @@
 ---
 
 ### 📫 Connect
-- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN
-- Portfolio: https://YOUR_PORTFOLIO
+- LinkedIn: https://www.linkedin.com/in/anurag-yadav-b6b89526b/
+
 
