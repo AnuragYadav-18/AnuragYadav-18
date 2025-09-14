@@ -20,12 +20,11 @@
 ---
 
 ### 📊 GitHub stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=**YOUR_GITHUB_USERNAME**&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=**YOUR_GITHUB_USERNAME**&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📫 Connect
-- LinkedIn: https://www.linkedin.com/in/anurag-yadav-b6b89526b/
-
-
+- LinkedIn: [Anurag Yadav](https://www.linkedin.com/in/anurag-yadav-b6b89526b/)  
+- Portfolio: *Coming soon...* 🚀
