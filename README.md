@@ -47,4 +47,4 @@
 
 ### 📫 Connect
 - LinkedIn: [Anurag Yadav](https://www.linkedin.com/in/anurag-yadav-b6b89526b/)  
-- Portfolio: *Coming soon...* 🚀
+- Portfolio: https://anuragyadav-portfolio.vercel.app/
