@@ -1,5 +1,5 @@
 <!-- Typing SVG Intro -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&width=600&lines=Hi%2C+I'm+Anurag+Yadav+👋;Full+Stack+Java+Developer+☕;Love+to+Build+Web+%26+Backend+WebApps+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&width=600&lines=Hi%2C+I'm+Anurag+Yadav+👋;Full+Stack+Java+Developer+☕;Love+to+Build+Web+%26+Backend+Web Apps+🚀)](https://git.io/typing-svg)
 
 ---
 
