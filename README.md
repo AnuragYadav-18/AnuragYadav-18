@@ -1,50 +1,91 @@
-<!-- Typing SVG Intro -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&width=600&lines=Hi%2C+I'm+Anurag+Yadav+👋;Full+Stack+Java+Developer+☕;Love+to+Build+Web+%26+Backend+Web+Apps+🚀)](https://git.io/typing-svg)
+<!-- header: animated greeting -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20there,+I'm%20Anurag👋&animation=fadeIn&color=gradient&height=120" alt="greeting" />
+</p>
+
+<h1 align="center">Anurag Yadav</h1>
+<p align="center">Full-Stack Java Developer | Open Source Enthusiast | Building scalable web apps</p>
+
+<p align="center">
+  <a href="https://github.com/AnuragYadav-18">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/AnuragYadav-18?style=social" />
+  </a>
+  <a href="https://github.com/AnuragYadav-18?tab=repositories">
+    <img alt="Top Languages" src="https://img.shields.io/github/languages/top/AnuragYadav-18?color=blueviolet" />
+  </a>
+  <a href="https://github.com/AnuragYadav-18">
+    <img alt="Total stars" src="https://img.shields.io/github/stars/AnuragYadav-18?style=social" />
+  </a>
+</p>
 
 ---
 
-# Hi 👋, I'm Anurag
+### 📂 About Me
+I’m a Full Stack Developer with experience primarily in **Java / Spring Boot** and **React**.  
+I love designing clean architectures, solving real-world problems, and deploying robust systems at scale.
 
-**Full Stack Java Developer** — building reliable backend systems & sleek frontends.
-
----
-
-### 🔭 What I do
-- Backend: Java, Spring Boot, REST APIs
-- Frontend: React, HTML5, CSS3
-- DB: MySQL, Oracle
-- Tools: Git, Docker, Maven
+- 🔭 Currently working on: *[ProjectName]* (link)  
+- 🌱 Learning: advanced **microservices patterns**, **K8s / service mesh**, **GraphQL**  
+- 💬 Ask me about: Java, REST APIs, cloud deployment, DevOps  
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/your-li) • [Portfolio](https://yourportfolio.vercel.app) • Email: your.email@example.com  
 
 ---
 
-### 🛠 Tech
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🛠️ Tech Stack & Tools
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+</div>
 
 ---
 
-### 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnuragYadav-18&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragYadav-18&layout=compact&theme=tokyonight)  
+### 🏆 GitHub Stats
+
+<p align="center">
+  <img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AnuragYadav-18&show_icons=true&theme=radical" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragYadav-18&layout=compact&theme=radical" />
+</p>
 
 ---
 
-### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=AnuragYadav-18&theme=tokyonight&hide_border=true)
+### 🔍 Featured Projects  
+Here are some projects I’m proud of:
+
+| Project | What I built | Key highlights / Tech |
+|--------|----------------------|----------------------------|
+| **ProjectA** | Full-stack app for online learning platform | Spring Boot, React, MySQL, JWT, Docker, Deployed on Render |
+| **ProjectB** | Real-time chat & notification system | WebSockets, Node.js, Express, Redis, MongoDB |
+| **ProjectC** | Microservices e-commerce API | Spring Boot, Kafka, Docker Compose, Circuit Breaker |
+
+→ See more on my [Repositories](https://github.com/AnuragYadav-18?tab=repositories)
 
 ---
 
-### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=AnuragYadav-18&label=Profile%20Views&color=blue&style=flat)
+### 📈 Contribution Activity
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AnuragYadav-18&theme=github)  
 
 ---
 
-### 📫 Connect
-- LinkedIn: [Anurag Yadav](https://www.linkedin.com/in/anurag-yadav-b6b89526b/)  
-- Portfolio: https://anuragyadav-portfolio.vercel.app/
+### 💡 What I’m passionate about
+- Writing clean, testable code 🧪  
+- System design & scalable architectures  
+- Developer tooling / open source  
+- Continuous learning & tech blogging  
+
+---
+
+### 📬 Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-li)  
+[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+[![Website](https://img.shields.io/badge/Portfolio-4ab7f0?style=for-the-badge&logo=about.me&logoColor=white)](https://yourportfolio.vercel.app)  
+
+---
+
+*“Code is like humor. When you have to explain it, it’s bad.”*  
