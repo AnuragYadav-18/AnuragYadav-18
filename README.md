@@ -55,7 +55,7 @@ MySQL + CSV based contact app.
 ### 🟢 Future Projects  
 - Employee Management System  
 - E-Book Store Web App  
-- React-based UI for Student Manager  
+- React-based UI
 - Spring Boot REST APIs  
 
 ---
