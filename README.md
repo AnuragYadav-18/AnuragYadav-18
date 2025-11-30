@@ -46,11 +46,11 @@
 
 ### 🔹 **Student Manager (Java + JDBC + MySQL)**  
 CRUD app using Java + JDBC.  
-🔗 Repo: https://github.com/AnuragYadav-18/StudentManager  
+🔗 Repo: [https://github.com/AnuragYadav-18/StudentManager](https://github.com/AnuragYadav-18/ProjectSection/tree/main/StudentManager/StudentManager)  
 
 ### 🔹 **Contact Manager (Java + CSV + JDBC)**  
 MySQL + CSV based contact app.  
-🔗 Repo: https://github.com/AnuragYadav-18/ContactManager  
+🔗 Repo: [https://github.com/AnuragYadav-18/ContactManager ](https://github.com/AnuragYadav-18/ProjectSection/tree/main/ContactManager/ContactManager) 
 
 ### 🟢 Future Projects  
 - Employee Management System  
