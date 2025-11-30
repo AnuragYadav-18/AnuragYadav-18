@@ -2,7 +2,7 @@
 <h3 align="center"> 💻 Java Full Stack Developer 
 
 <p align="center">
- Actively learning and building projects to grow as a Java Full Stack Developer..
+ Actively learning and building projects to grow as a Java Full Stack Developer...
 </p>
 
 ## 🚀 About Me  
