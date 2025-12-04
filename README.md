@@ -45,15 +45,23 @@
 ## 📂 Featured Projects
 
 ### 🔹 **Student Manager (Java + JDBC + MySQL)**  
-CRUD app using Java + JDBC.  
+CRUD app using Java + JDBC. 
+
 🔗 Repo: [https://github.com/AnuragYadav-18/StudentManager](https://github.com/AnuragYadav-18/ProjectSection/tree/main/StudentManager/StudentManager)  
 
+
 ### 🔹 **Contact Manager (Java + CSV + JDBC)**  
-MySQL + CSV based contact app.  
+MySQL + CSV based contact app. 
+
 🔗 Repo: [https://github.com/AnuragYadav-18/ContactManager ](https://github.com/AnuragYadav-18/ProjectSection/tree/main/ContactManager/ContactManager) 
 
+
+### 🔹 **E-Book Manager (JDBC Console Application)**  
+JDBC Console Application.
+
+🔗 Repo: [https://github.com/AnuragYadav-18/EbookManager ](https://github.com/AnuragYadav-18/ProjectSection/tree/main/EbookManager)
+
 ### 🟢 Future Projects  
-- Employee Management System  
 - E-Book Store Web App  
 - React-based UI
 - Spring Boot REST APIs  
