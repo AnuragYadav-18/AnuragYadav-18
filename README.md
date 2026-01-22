@@ -1,95 +1,116 @@
-<h1 align="center">👋 Hi, I'm Anurag Yadav</h1>
-<h3 align="center"> 💻 Java Full Stack Developer 
+<h1 align="center">Hi 👋, I'm Anurag Yadav</h1>
+<h3 align="center">💻 Java Full Stack Developer</h3>
 
 <p align="center">
- Actively learning and building projects to grow as a Java Full Stack Developer...
+🚀 Actively learning and building projects to grow as a Java Full Stack Developer
 </p>
 
-## 🚀 About Me  
-- 💻 Full Stack Developer (Java + React)  
-- 🌱 Strong foundation: Java, OOP, JDBC, SQL  
-- ⚡ Frontend experience: HTML, CSS, JavaScript, ReactJS  
-- 🔥 Backend experience: Java, JDBC, MySQL, APIs  
-- 🚀 Learning Spring Boot & REST APIs  
-- 🛠 Tools: IntelliJ, VS Code, Maven, Git, MySQL Workbench  
+<p align="center">
+  <a href="https://www.linkedin.com/in/anurag-yadav-b6b89526b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ianuragyadav2025@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🛠 Full Stack Tech Stack
+## 👨‍💻 About Me  
 
-### **Frontend**
-- HTML  
-- CSS  
-- JavaScript  
-- ReactJS  
-
-### **Backend**
-- Java  
-- JDBC  
-- MySQL  
-- Servlets & JSP  
-- Spring Boot (Learning)  
-- REST APIs  
-
-### **Tools**
-- IntelliJ IDEA  
-- VS Code  
-- Git & GitHub  
-- Apache Maven  
-- Apache Tomcat  
-- MySQL Workbench
-- Postman
+- 💻 Java Full Stack Developer (Java + React)  
+- 🌱 Strong foundation in **Java, OOP, JDBC, SQL**  
+- ⚡ Frontend experience: **HTML, CSS, JavaScript, ReactJS**  
+- 🔥 Backend experience: **Java, JDBC, MySQL, APIs**  
+- 🚀 Learning **Spring Boot & REST APIs**  
+- 🛠 Tools: IntelliJ, VS Code, Maven, Git, MySQL Workbench, Postman  
 
 ---
 
-## 📂 Featured Projects
+## 🛠 Tech Stack  
 
-### 🔹 **🧾 Student Manager (Java + JDBC + MySQL)**  
-CRUD app using Java + JDBC. 
+### 🎨 Frontend  
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
 
-🔗 Repo: [https://github.com/AnuragYadav-18/StudentManager](https://github.com/AnuragYadav-18/ProjectSection/tree/main/StudentManager/StudentManager)  
----
-### 🔹 **📚 Contact Manager (Java + CSV + JDBC)**  
-MySQL + CSV based contact app. 
+### ⚙️ Backend  
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+</p>
 
-🔗 Repo: [https://github.com/AnuragYadav-18/ContactManager ](https://github.com/AnuragYadav-18/ProjectSection/tree/main/ContactManager/ContactManager) 
----
-### 🔹 **📘 E-Book Manager (JDBC Console Application)**  
-JDBC Console Application.
-
-🔗 Repo: [https://github.com/AnuragYadav-18/EbookManager ](https://github.com/AnuragYadav-18/ProjectSection/tree/main/EbookManager)
----
-### 🔹 **📘 E-Book Management System (Java MVC Web Application )**  
-Java MVC Web Application 
-
-🔗 Repo:https://github.com/AnuragYadav-18/E-Book-Management-System
----
-### 🟢 Future Projects  
-- Student Portal Web App
-- Expense Tracker (Full-Stack Web App)
-- Mini Online Shop (Cart System)
-- React-based UI
-- Spring Boot REST APIs  
+### 🧰 Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,maven,postman,vscode,idea" />
+</p>
 
 ---
 
-## 📈 GitHub Analytics
+## 📂 Projects  
 
-<div align="center">
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnuragYadav-18&theme=radical" />
+### 🧾 Student Manager System  
+**Tech:** Java | JDBC | MySQL  
+**Description:** CRUD console application to manage student records using JDBC.
 
-</div>
+🔗 **Repository:**  
+👉 [Student Manager System](https://github.com/AnuragYadav-18/ProjectSection/tree/main/StudentManager/StudentManager)
+
+---
+
+### 📇 Contact Manager Application  
+**Tech:** Java | JDBC | CSV  
+**Description:** Contact management system with database and CSV file handling.
+
+🔗 **Repository:**  
+👉 [Contact Manager Application](https://github.com/AnuragYadav-18/ProjectSection/tree/main/ContactManager/ContactManager)
+
+---
+
+### 📖 E-Book Manager (Console App)  
+**Tech:** Java | JDBC  
+**Description:** Console-based application to manage e-book records.
+
+🔗 **Repository:**  
+👉 [E-Book Manager](https://github.com/AnuragYadav-18/ProjectSection/tree/main/EbookManager)
+
+---
+
+### 🌐 E-Book Management System (Web App)  
+**Tech:** Java | Servlets | JSP | JDBC | MySQL  
+**Description:** Java MVC web application for managing e-book data.
+
+🔗 **Repository:**  
+👉 [E-Book Management System](https://github.com/AnuragYadav-18/E-Book-Management-System)
+
+
+
+---
+
+## 🚧 Currently Working On  
+
+- 🔧 Spring Boot REST APIs  
+- ⚛️ React-based UI projects  
+- 🔗 Full Stack applications  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnuragYadav-18&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnuragYadav-18&theme=radical" />
+</p>
 
 ---
 
 ## 📫 Contact  
-- **Email:** ianuragyadav2025@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/anurag-yadav-b6b89526b/  
+
+- 📧 Email: **ianuragyadav2025@gmail.com**  
+- 💼 LinkedIn: https://www.linkedin.com/in/anurag-yadav-b6b89526b/  
 
 ---
-
-<h3 align="center">✨ Full Stack Developer | Learning • Building | Improving ✨</h3>
-
 
 <h3 align="center">✨ Keep Learning. Keep Building. Keep Growing. ✨</h3>
