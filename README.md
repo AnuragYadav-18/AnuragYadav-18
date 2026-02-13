@@ -31,7 +31,7 @@
 
 ### 🎨 Frontend  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
 ### ⚙️ Backend  
@@ -46,51 +46,62 @@
 
 ---
 
-## 📂 Projects  
+## 🚀 Featured Frontend Projects  
+
+### 🛒 E-Commerce Frontend Website  
+**Tech:** HTML | CSS | JavaScript | LocalStorage | Responsive Design  
+**Highlights:** Product Listing • Search & Filter • Cart • Wishlist • Animations • Mobile Friendly  
+
+🔗 **GitHub:** [View Project](https://github.com/AnuragYadav-18/ecommerce-frontend)  
+🌐 **Live Demo:** Coming Soon
+
+---
+
+### 📊 Admin Dashboard UI  
+**Tech:** React JS | Tailwind CSS | Chart.js | Dark Mode | Responsive Design  
+**Highlights:** Analytics Charts • Data Tables • Theme Toggle • Modern UI Layout  
+
+🔗 **GitHub:** [View Project](https://github.com/AnuragYadav-18/admin-dashboard-ui)  
+🌐 **Live Demo:** Coming Soon
+
+---
+
+### ✈️ Travel Booking Website  
+**Tech:** React JS | APIs | Responsive UI  
+**Highlights:** Search • Filters • Booking Form • Dynamic Data  
+
+🔗 **GitHub:** [View Project](https://github.com/AnuragYadav-18/travel-booking)
+
+---
+
+## ⚙️ Java / Backend Projects  
 
 ### 🧾 Student Manager System  
 **Tech:** Java | JDBC | MySQL  
-**Description:** CRUD console application to manage student records using JDBC.
-
-🔗 **Repository:**  
-👉 [Student Manager System](https://github.com/AnuragYadav-18/ProjectSection/tree/main/StudentManager/StudentManager)
+**Description:** CRUD console application to manage student records.  
+🔗 [Repository](https://github.com/AnuragYadav-18/ProjectSection/tree/main/StudentManager/StudentManager)
 
 ---
 
 ### 📇 Contact Manager Application  
 **Tech:** Java | JDBC | CSV  
-**Description:** Contact management system with database and CSV file handling.
-
-🔗 **Repository:**  
-👉 [Contact Manager Application](https://github.com/AnuragYadav-18/ProjectSection/tree/main/ContactManager/ContactManager)
+**Description:** Contact management with database & file handling.  
+🔗 [Repository](https://github.com/AnuragYadav-18/ProjectSection/tree/main/ContactManager/ContactManager)
 
 ---
 
-### 📖 E-Book Manager (Console App)  
-**Tech:** Java | JDBC  
-**Description:** Console-based application to manage e-book records.
-
-🔗 **Repository:**  
-👉 [E-Book Manager](https://github.com/AnuragYadav-18/ProjectSection/tree/main/EbookManager)
-
----
-
-### 🌐 E-Book Management System (Web App)  
+### 🌐 E-Book Management System  
 **Tech:** Java | Servlets | JSP | JDBC | MySQL  
-**Description:** Java MVC web application for managing e-book data.
-
-🔗 **Repository:**  
-👉 [E-Book Management System](https://github.com/AnuragYadav-18/E-Book-Management-System)
-
-
+**Description:** Java MVC web application for managing e-book data.  
+🔗 [Repository](https://github.com/AnuragYadav-18/E-Book-Management-System)
 
 ---
 
 ## 🚧 Currently Working On  
 
 - 🔧 Spring Boot REST APIs  
-- ⚛️ React-based UI projects  
-- 🔗 Full Stack applications  
+- ⚛️ React-based UI Projects  
+- 🔗 Full Stack Applications  
 
 ---
 
