@@ -48,12 +48,14 @@
 
 ## 🚀 Featured Frontend Projects  
 
-### 🛒 E-Commerce Frontend Website  
-**Tech:** HTML | CSS | JavaScript | LocalStorage | Responsive Design  
-**Highlights:** Product Listing • Search & Filter • Cart • Wishlist • Animations • Mobile Friendly  
+###🚗 Easy Drive – Car Rental Frontend Website
+Tech: HTML5 | CSS3 | Tailwind CSS | JavaScript | Responsive Design
 
-🔗 **GitHub:** [View Project](https://github.com/AnuragYadav-18/ecommerce-frontend)  
-🌐 **Live Demo:** Coming Soon
+Highlights:
+Car Listing • Booking UI • Search & Filter • Form Validation • Clean Modern UI • Animations • Mobile Friendly • Real Car Images
+
+🔗 GitHub: View Project
+🌐 Live Demo: Coming Soon
 
 ---
 
