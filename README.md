@@ -2,7 +2,7 @@
 <h3 align="center">💻 Java Full Stack Developer</h3>
 
 <p align="center">
-🚀 Actively learning and building projects to grow as a Java Full Stack Developer
+🚀 Passionate about building real-world applications and continuously improving my full-stack skills.
 </p>
 
 <p align="center">
@@ -20,10 +20,10 @@
 
 - 💻 Java Full Stack Developer (Java + React)  
 - 🌱 Strong foundation in **Java, OOP, JDBC, SQL**  
-- ⚡ Frontend experience: **HTML, CSS, JavaScript, ReactJS**  
-- 🔥 Backend experience: **Java, JDBC, MySQL, REST APIs**  
-- 🚀 Currently learning **Spring Boot & REST APIs**  
-- 🛠 Tools: IntelliJ, VS Code, Maven, Git, MySQL Workbench, Postman  
+- ⚡ Frontend: **HTML, CSS, JavaScript, ReactJS, Tailwind CSS**  
+- 🔥 Backend: **Java, JDBC, MySQL, REST APIs**  
+- 🚀 Currently learning **Spring Boot & Microservices**  
+- 🛠 Tools: IntelliJ, VS Code, Git, Maven, MySQL Workbench, Postman  
 
 ---
 
@@ -49,64 +49,68 @@
 ## 🚀 Featured Frontend Projects  
 
 ### 🚗 Easy Drive – Car Rental Frontend Website  
-**Tech:** HTML5 | CSS3 | Tailwind CSS | JavaScript | Responsive Design  
+**Tech:** HTML5 • CSS3 • Tailwind CSS • JavaScript  
 
 **Highlights:**  
-Car Listing • Booking UI • Search & Filter • Form Validation • Clean Modern UI • Animations • Mobile Friendly • Real Car Images  
+Car Listing • Booking Simulation • Search & Filters • Form Validation • Responsive UI • Smooth Animations  
 
-🔗 **GitHub:** [View Project](https://github.com/AnuragYadav-18)  
-🌐 **Live Demo:** Coming Soon  
+🔗 **Repository:** [View Code](https://github.com/AnuragYadav-18/easy-drive-car-rental)  
+🌐 **Live Demo:** [Visit Website](https://easy-drive-car-rental.vercel.app)
 
 ---
 
-### 📊 Admin Dashboard UI  
-**Tech:** React JS | Tailwind CSS | Chart.js | Dark Mode | Responsive Design  
+### 🚘 Car Rental Admin Dashboard  
+**Tech:** React JS • Tailwind CSS • Chart.js  
 
 **Highlights:**  
-Analytics Charts • Data Tables • Theme Toggle • Modern UI Layout  
+Vehicle Management • Booking Analytics • Revenue Charts • Customer Tables • Dark Mode • Modern UI  
 
-🔗 **GitHub:** [View Project](https://github.com/AnuragYadav-18/admin-dashboard-ui)  
-🌐 **Live Demo:** Coming Soon  
+🔗 **Repository:** [View Code](https://github.com/AnuragYadav-18/admin-dashboard-ui)  
+🌐 **Live Demo:** [Visit Dashboard](https://car-rental-admin-dashboard.vercel.app)
 
 ---
 
 ### ✈️ Travel Booking Website  
-**Tech:** React JS | APIs | Responsive UI  
+**Tech:** React JS • APIs • Responsive UI  
 
 **Highlights:**  
 Search • Filters • Booking Form • Dynamic Data  
 
-🔗 **GitHub:** [View Project](https://github.com/AnuragYadav-18/travel-booking)
+🔗 **Repository:** [View Code](https://github.com/AnuragYadav-18/travel-booking)  
+🌐 **Live Demo:** Coming Soon
 
 ---
 
 ## ⚙️ Java / Backend Projects  
 
 ### 🧾 Student Manager System  
-**Tech:** Java | JDBC | MySQL  
-**Description:** CRUD console application to manage student records.  
-🔗 [Repository](https://github.com/AnuragYadav-18/ProjectSection/tree/main/StudentManager/StudentManager)
+**Tech:** Java • JDBC • MySQL  
+**Description:** Console-based CRUD application to manage student records.  
+
+🔗 **Repository:** [View Project](https://github.com/AnuragYadav-18/ProjectSection)
 
 ---
 
 ### 📇 Contact Manager Application  
-**Tech:** Java | JDBC | CSV  
-**Description:** Contact management with database & file handling.  
-🔗 [Repository](https://github.com/AnuragYadav-18/ProjectSection/tree/main/ContactManager/ContactManager)
+**Tech:** Java • JDBC • CSV  
+**Description:** Contact management system with database and file handling.  
+
+🔗 **Repository:** [View Project](https://github.com/AnuragYadav-18/ProjectSection)
 
 ---
 
 ### 🌐 E-Book Management System  
-**Tech:** Java | Servlets | JSP | JDBC | MySQL  
-**Description:** Java MVC web application for managing e-book data.  
-🔗 [Repository](https://github.com/AnuragYadav-18/E-Book-Management-System)
+**Tech:** Java • Servlets • JSP • JDBC • MySQL  
+**Description:** MVC-based web application for managing e-book records.  
+
+🔗 **Repository:** [View Project](https://github.com/AnuragYadav-18/E-Book-Management-System)
 
 ---
 
 ## 🚧 Currently Working On  
 
 - 🔧 Spring Boot REST APIs  
-- ⚛️ React-based UI Projects  
+- ⚛️ Advanced React UI Projects  
 - 🔗 Full Stack Applications  
 
 ---
@@ -126,7 +130,7 @@ Search • Filters • Booking Form • Dynamic Data
 ## 📫 Contact  
 
 - 📧 Email: **ianuragyadav2025@gmail.com**  
-- 💼 LinkedIn: [Anurag Yadav](https://www.linkedin.com/in/anurag-yadav-b6b89526b/)  
+- 💼 LinkedIn: [Anurag Yadav](https://www.linkedin.com/in/anurag-yadav-b6b89526b/)
 
 ---
 
