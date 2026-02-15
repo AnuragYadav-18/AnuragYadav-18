@@ -21,8 +21,8 @@
 - 💻 Java Full Stack Developer (Java + React)  
 - 🌱 Strong foundation in **Java, OOP, JDBC, SQL**  
 - ⚡ Frontend experience: **HTML, CSS, JavaScript, ReactJS**  
-- 🔥 Backend experience: **Java, JDBC, MySQL, APIs**  
-- 🚀 Learning **Spring Boot & REST APIs**  
+- 🔥 Backend experience: **Java, JDBC, MySQL, REST APIs**  
+- 🚀 Currently learning **Spring Boot & REST APIs**  
 - 🛠 Tools: IntelliJ, VS Code, Maven, Git, MySQL Workbench, Postman  
 
 ---
@@ -48,29 +48,33 @@
 
 ## 🚀 Featured Frontend Projects  
 
-###🚗 Easy Drive – Car Rental Frontend Website
-Tech: HTML5 | CSS3 | Tailwind CSS | JavaScript | Responsive Design
+### 🚗 Easy Drive – Car Rental Frontend Website  
+**Tech:** HTML5 | CSS3 | Tailwind CSS | JavaScript | Responsive Design  
 
-Highlights:
-Car Listing • Booking UI • Search & Filter • Form Validation • Clean Modern UI • Animations • Mobile Friendly • Real Car Images
+**Highlights:**  
+Car Listing • Booking UI • Search & Filter • Form Validation • Clean Modern UI • Animations • Mobile Friendly • Real Car Images  
 
-🔗 GitHub: View Project
-🌐 Live Demo: Coming Soon
+🔗 **GitHub:** [View Project](https://github.com/AnuragYadav-18)  
+🌐 **Live Demo:** Coming Soon  
 
 ---
 
 ### 📊 Admin Dashboard UI  
 **Tech:** React JS | Tailwind CSS | Chart.js | Dark Mode | Responsive Design  
-**Highlights:** Analytics Charts • Data Tables • Theme Toggle • Modern UI Layout  
+
+**Highlights:**  
+Analytics Charts • Data Tables • Theme Toggle • Modern UI Layout  
 
 🔗 **GitHub:** [View Project](https://github.com/AnuragYadav-18/admin-dashboard-ui)  
-🌐 **Live Demo:** Coming Soon
+🌐 **Live Demo:** Coming Soon  
 
 ---
 
 ### ✈️ Travel Booking Website  
 **Tech:** React JS | APIs | Responsive UI  
-**Highlights:** Search • Filters • Booking Form • Dynamic Data  
+
+**Highlights:**  
+Search • Filters • Booking Form • Dynamic Data  
 
 🔗 **GitHub:** [View Project](https://github.com/AnuragYadav-18/travel-booking)
 
@@ -122,8 +126,8 @@ Car Listing • Booking UI • Search & Filter • Form Validation • Clean Mod
 ## 📫 Contact  
 
 - 📧 Email: **ianuragyadav2025@gmail.com**  
-- 💼 LinkedIn: https://www.linkedin.com/in/anurag-yadav-b6b89526b/  
+- 💼 LinkedIn: [Anurag Yadav](https://www.linkedin.com/in/anurag-yadav-b6b89526b/)  
 
 ---
 
-<h3 align="center">✨ Keep Learning. Keep Building. Keep Growing. ✨</h3>
+<h3 align="center">✨ Keep Learning • Keep Building • Keep Growing ✨</h3>
