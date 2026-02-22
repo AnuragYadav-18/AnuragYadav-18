@@ -1,36 +1,124 @@
-# Personal Introduction
+<h1 align="center">Anurag Yadav</h1>
+<h3 align="center">Java Full Stack Developer • Product-Oriented Engineer</h3>
 
-Hello! I am Anurag Yadav, a passionate developer with a keen interest in software engineering and web development.
+<p align="center">
+Building scalable frontend experiences & backend systems with clean architecture and real-world logic.
+</p>
 
-## About Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/anurag-yadav-b6b89526b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ianuragyadav2025@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-I am currently pursuing my studies in computer science and have a strong foundation in programming languages and development tools.
+---
 
-## Tech Stack
+## 🧠 Engineering Focus
 
-- **Frontend:** HTML, CSS, JavaScript, React.js
-- **Backend:** Java, Spring Boot, MySQL
+- Architecting clean frontend systems (HTML, CSS, JavaScript, React)
+- Building modular Java backend applications
+- Designing real-world booking & pricing engines
+- Writing scalable, structured code
+- Creating SaaS-style UI systems
+- Strong focus on logic, performance & UX
 
-## Featured Frontend Projects
+---
 
-1. **Easy Drive** - A user-friendly application for seamless file sharing.
-2. **Admin Dashboard** - A powerful dashboard to manage users and content effectively.
-3. **Travel Booking** - A comprehensive platform for booking travel itineraries.
+## 🚀 Flagship Project
 
-## Java Backend Projects
+### 🚘 Car Rental Platform (Frontend Enterprise Simulation)
 
-1. **Student Manager** - An application to manage student records and information.
-2. **Contact Manager** - A tool to manage personal contacts efficiently.
-3. **E-Book Management System** - A system designed for handling e-books effectively.
+**Stack:** HTML | CSS | JavaScript | LocalStorage | Modular JS Architecture  
 
-## Currently Working On
+**Highlights**
+- Smart booking engine
+- AI-style recommendation logic
+- Dynamic pricing calculation
+- Date conflict detection
+- Role-based dashboard simulation
+- Admin control panel
+- Real-time filtering & search
+- Dark mode system
+- Premium SaaS UI design
 
-I am currently working on enhancing my skills in machine learning and exploring cloud computing.
+🔗 [View Project Repository](#)
 
-## GitHub Stats
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnuragYadav-18&show_icons=true&theme=radical)
+## 💼 Frontend Systems
 
-## Contact Information
+### 🛒 E-Commerce Platform  
+HTML | CSS | JavaScript | LocalStorage | Responsive Design  
+Dynamic cart logic • Filters • Wishlist • UI system architecture  
 
-You can reach me at my email: anuragyadav@example.com or connect with me on LinkedIn: [Anurag Yadav](https://www.linkedin.com/in/anuragyadav/).
+### 📊 Car Rental Admin Dashboard  
+React JS | Tailwind CSS | Chart.js  
+Analytics • Data tables • Theme system • Structured components  
+
+### ✈️ Travel Booking Interface  
+React JS | API Integration | Responsive UI  
+Search engine • Filters • Real-time rendering  
+
+---
+
+## ⚙️ Backend Systems
+
+### 📚 E-Book Management System  
+Java | Servlets | JSP | JDBC | MySQL  
+MVC architecture • CRUD operations • Database connectivity  
+
+### 🧾 Student Manager System  
+Java | JDBC | MySQL  
+Modular console application with database integration  
+
+---
+
+## 🛠 Core Tech Stack
+
+### Frontend
+HTML • CSS • JavaScript • React • Tailwind
+
+### Backend
+Java • JDBC • Servlets • JSP • MySQL • Spring (Learning)
+
+### Tools
+Git • GitHub • Maven • Postman • VS Code • IntelliJ
+
+---
+
+## 🏗 Engineering Principles
+
+- Modular file structure
+- Clean architecture
+- Separation of concerns
+- Reusable components
+- Responsive-first design
+- Performance-aware development
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnuragYadav-18&show_icons=true&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnuragYadav-18&theme=github_dark" />
+</p>
+
+---
+
+## 📬 Connect
+
+📧 ianuragyadav2025@gmail.com  
+💼 LinkedIn: linkedin.com/in/anurag-yadav-b6b89526b  
+
+---
+
+<p align="center">
+Focused on building products, not just projects.
+</p>
